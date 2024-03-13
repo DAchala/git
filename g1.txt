@@ -5,3 +5,13 @@ git branch -M main
 git remote add origin https://github.com/DAchala/git.git
 git push -u origin main
 Name:Achala Deshpande
+hese are a list of few commands that you can use frequently on Github(git bash) 
+
+1.git help
+Take help from github help section for different commands and other errors.  
+
+2.git config
+To set the basic configurations on github like your name and email.  
+
+3.git config –-global user.name “ ”
+Sets configuration values for your user name on git. 
